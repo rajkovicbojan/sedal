@@ -1,4 +1,4 @@
-# SeDaL - Serial Data Logger (WORK IN PROGRSS !)
+# SeDaL - Serial Data Logger (WORK IN PROGRESS !)
 
 **SeDaL** (Serial Data Logger) is a simple and efficient command-line tool written in **Rust**. It opens a serial port, listens for incoming UART data, filters lines that begin with specific keywords, and stores those lines into a log file.
 
